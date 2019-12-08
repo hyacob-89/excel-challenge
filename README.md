@@ -1,1 +1,1 @@
-# excel-challenge - Henock Yacob
+# excel-challenge
